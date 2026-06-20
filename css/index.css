@@ -127,6 +127,30 @@ main {
   background: #cd853f;
 }
 
+/* Дополнительные цвета для фруктов */
+.fruit_blue { 
+  background-color: #3498db; 
+}
+.fruit_orange { 
+  background-color: #f39c12; 
+}
+.fruit_red { 
+  background-color: #e74c3c; 
+}
+.fruit_cyan { 
+  background-color: #00bcd4; 
+}
+.fruit_black { 
+  background-color: #2c3e50; 
+}
+.fruit_white { 
+  background-color: #ecf0f1; 
+  border: 1px solid #ccc; 
+}
+.fruit_pink { 
+  background-color: #ff69b4; 
+}
+
 .fruit__info {
   display: flex;
   justify-content: center;
